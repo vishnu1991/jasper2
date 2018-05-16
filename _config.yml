@@ -67,10 +67,10 @@ feed:
 safe: False
 lsi: False
 username: vishnu1991
-repo: jasper2
+repo: vishnu1991.github.io
 branch: master
 relative_source: ../
-destination: ../jasper2-pages/
+destination: ../vishnu1991.github.io/
 production_url:  https://vishnu1991.github.io/
 source_url:  https://github.com/vishnu1991/
 
