@@ -14,8 +14,8 @@ cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
-production_url: https://vishnu1991.github.io/jasper2/
-source_url: https://github.com/vishnu1991/jasper2/
+production_url: https://vishnu1991.github.io/
+source_url: https://github.com/vishnu1991/
 
 # Social info
 navigation: True # show the navbar links
@@ -69,10 +69,10 @@ lsi: False
 username: vishnu1991
 repo: jasper2
 branch: master
-relative_source: ../jasper2/
+relative_source: ../
 destination: ../jasper2-pages/
-production_url:  https://vishnu1991.github.io/jasper2/
-source_url:  https://github.com/vishnu1991/jasper2/
+production_url:  https://vishnu1991.github.io/
+source_url:  https://github.com/vishnu1991/
 
 exclude:
   - assets/css
